@@ -1,0 +1,6 @@
+<!-- index.nunjucks -->
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+  <h1>ARTLEE</h1>
+{% endblock %}

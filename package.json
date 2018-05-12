@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Made by coffee lovers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodolfo Artavia",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.7",
+    "gulp": "^3.9.1",
+    "gulp-nunjucks-render": "^2.2.2",
+    "gulp-sass": "^4.0.1",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.6.0"
+  }
+}
